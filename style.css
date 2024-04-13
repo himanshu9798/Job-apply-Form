@@ -1,0 +1,63 @@
+
+body{
+    width: 500px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    
+}
+.name{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+.second{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+.address{
+    margin: 10px;
+}
+.address input{
+    
+    width: 475px;
+    height: 75px;
+    margin-left: 10px;
+}
+.third{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+label{
+    line-height: 25px;
+}
+.fourth{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+button{
+    align-content: center;
+    margin-top: 5px;
+    margin-left: 210px;
+    line-height: 20px;
+
+}
+input{
+    width: 200px;
+    height: 20px;
+    border: 1px solid grey;
+    
+}
+select{
+    width: 210px;
+    height: 30px;
+}
+input:focus{
+    outline-color: darkgreen;
+}
+h1{
+    padding: 10px;
+}
